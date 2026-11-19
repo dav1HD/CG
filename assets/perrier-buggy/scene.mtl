@@ -1,0 +1,145 @@
+# MTL file - created by a modified js OBJExporter
+
+newmtl unknownmaterial.001
+Tr 0.0000
+Tf 1.0000 1.0000 1.0000
+illum 1
+Pr 0.8308205978495098
+Pds 1
+Pl 1
+Ka 1 1 1
+Kd 1 1 1
+Ke 0 0 0
+map_Kd unknownmaterial.001.png
+
+newmtl sFRWheel.006
+Tr 0.0000
+Tf 1.0000 1.0000 1.0000
+illum 1
+Pr 0.8308205978495098
+Pds 1
+Pl 1
+Ka 1 1 1
+Kd 1 1 1
+Ke 0 0 0
+map_Kd sFRWheel.006.png
+
+newmtl dRLSusp.001
+Tr 0.0000
+Tf 1.0000 1.0000 1.0000
+illum 1
+Pr 0.8308205978495098
+Pds 1
+Pl 1
+Ka 1 1 1
+Kd 1 1 1
+Ke 0 0 0
+map_Kd sFRWheel.006.png
+
+newmtl sRRWheel.004
+Tr 0.0000
+Tf 1.0000 1.0000 1.0000
+illum 1
+Pr 0.8308205978495098
+Pds 1
+Pl 1
+Ka 1 1 1
+Kd 1 1 1
+Ke 0 0 0
+map_Kd unknownmaterial.001.png
+
+newmtl sFRWheel.007
+Tr 0.0000
+Tf 1.0000 1.0000 1.0000
+illum 1
+Pr 0.8308205978495098
+Pds 1
+Pl 1
+Ka 1 1 1
+Kd 1 1 1
+Ke 0 0 0
+map_Kd sFRWheel.006.png
+
+newmtl sFRWheel.010
+Tr 0.0000
+Tf 1.0000 1.0000 1.0000
+illum 1
+Pr 0.8308205978495098
+Pds 1
+Pl 1
+Ka 1 1 1
+Kd 1 1 1
+Ke 0 0 0
+map_Kd sFRWheel.006.png
+
+newmtl sFRWheel.011
+Tr 0.0000
+Tf 1.0000 1.0000 1.0000
+illum 1
+Pr 0.8308205978495098
+Pds 1
+Pl 1
+Ka 1 1 1
+Kd 1 1 1
+Ke 0 0 0
+map_Kd sFRWheel.006.png
+
+newmtl sFRWheel.012
+Tr 0.0000
+Tf 1.0000 1.0000 1.0000
+illum 1
+Pr 0.8308205978495098
+Pds 1
+Pl 1
+Ka 1 1 1
+Kd 1 1 1
+Ke 0 0 0
+map_Kd sFRWheel.006.png
+
+newmtl sFRWheel.013
+Tr 0.0000
+Tf 1.0000 1.0000 1.0000
+illum 1
+Pr 0.8308205978495098
+Pds 1
+Pl 1
+Ka 1 1 1
+Kd 1 1 1
+Ke 0 0 0
+map_Kd sFRWheel.006.png
+
+newmtl sFRWheel.014
+Tr 0.0000
+Tf 1.0000 1.0000 1.0000
+illum 1
+Pr 0.8308205978495098
+Pds 1
+Pl 1
+Ka 1 1 1
+Kd 1 1 1
+Ke 0 0 0
+map_Kd sFRWheel.006.png
+
+newmtl sFRWheel.015
+Tr 0.0000
+Tf 1.0000 1.0000 1.0000
+illum 1
+Pr 0.8308205978495098
+Pds 1
+Pl 1
+Ka 1 1 1
+Kd 1 1 1
+Ke 0 0 0
+map_Kd sFRWheel.006.png
+
+newmtl dRLSusp
+Tr 0.0000
+Tf 1.0000 1.0000 1.0000
+illum 1
+Pr 0.8308205978495098
+Pds 1
+Pl 1
+Ka 1 1 1
+Kd 1 1 1
+Ke 0 0 0
+map_Kd sFRWheel.006.png
